@@ -6,7 +6,7 @@
 
 :white_check_mark: 2. Implement based on the Ridge regression example, the Lasso regression [Link do commita2 ](https://github.com/PawelJasinski25/machine-learning/commit/a2bf5c3948fcf45cac6ed52ac1106116209fc7b6)
 
-:white_check_mark: 3. Extend the Fisher's classifier4.0 wymaganie 3 [Link do commita 3](https://github.com/PawelJasinski25/machine-learning/commit/6095112f3a8216d9b6d63723e835c85e3f66fd24)
+:white_check_mark: 3. Extend the Fisher's classifier [Link do commita 3](https://github.com/PawelJasinski25/machine-learning/commit/6095112f3a8216d9b6d63723e835c85e3f66fd24)
 
 [Notatnik](https://github.com/PawelJasinski25/machine-learning/blob/main/025_Exercises.ipynb)
 
