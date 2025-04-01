@@ -24,3 +24,16 @@
 :white_check_mark: 5. Modify the output image with borders between clusters [Link do commita 5](https://github.com/PawelJasinski25/machine-learning/commit/139bbda557af883bf1d703523e1c27ad006efb9f)
 
 [Notatnik](https://github.com/PawelJasinski25/machine-learning/blob/main/047Clustering_Exercises.ipynb)
+
+
+**Zadanie 3** 055Decision_trees_Exercises
+
+:white_check_mark: 1. Rewrite the CART method to the Gini index. [Link do commita 1](https://github.com/PawelJasinski25/machine-learning/commit/fdaccdcea6b68af4efc6d3c8418f6cbe1d8fe812)
+
+:white_check_mark: 2. Use pydot do draw the tree for C4.5 example. [Link do commita2 ](https://github.com/PawelJasinski25/machine-learning/commit/99d9485511f5feda073729d7c718b1bab3204c45)
+
+:white_check_mark: 3. Implement the minimum number of objects pruning method. [Link do commita 3](https://github.com/PawelJasinski25/machine-learning/commit/b737919e70545a3b9c71e6a7b4c7900b0571e684)
+
+:white_check_mark: 4. Plot OC1 tree, but instead of elements id, print the feature id it was split by. [Link do commita 4](https://github.com/PawelJasinski25/machine-learning/commit/b6c71662129c663e39c1a1e4694c479e9f71e596)
+
+[Notatnik](https://github.com/PawelJasinski25/machine-learning/blob/main/055Decision_trees_Exercises.ipynb)
