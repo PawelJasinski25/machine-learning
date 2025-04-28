@@ -54,4 +54,4 @@
 :white_check_mark: 2. Implement the multiclass C-SVM. [Link do commita2 ](https://github.com/PawelJasinski25/machine-learning/commit/e5e615a4204fee00af701eda7d8f11d254fe563d)
 
 
-[Notatnik](https://github.com/PawelJasinski25/machine-learning/blob/main/075Ensemble_Exercises.ipynb)
+[Notatnik](https://github.com/PawelJasinski25/machine-learning/blob/main/065_SVM_Exercises.ipynb)
