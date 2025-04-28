@@ -37,3 +37,21 @@
 :white_check_mark: 4. Plot OC1 tree, but instead of elements id, print the feature id it was split by. [Link do commita 4](https://github.com/PawelJasinski25/machine-learning/commit/b6c71662129c663e39c1a1e4694c479e9f71e596)
 
 [Notatnik](https://github.com/PawelJasinski25/machine-learning/blob/main/055Decision_trees_Exercises.ipynb)
+
+**Zadanie 4** 075Ensemble_Exercises
+
+:white_check_mark: 1. Find the best three classifier in the stacking method using the classifiers from scikit-learn package. [Link do commita 1](https://github.com/PawelJasinski25/machine-learning/commit/3fb06ed27f9e28df69a717a0a6bcbca0faa4cd01)
+
+:white_check_mark: 2. Build arcing arc-x4 method. [Link do commita2 ](https://github.com/PawelJasinski25/machine-learning/commit/49a48c5cf1e6e906e3b8cb80ec9e2a7986e056b5)
+
+
+[Notatnik](https://github.com/PawelJasinski25/machine-learning/blob/main/075Ensemble_Exercises.ipynb)
+
+**Zadanie 5** 065_SVM_Exercises
+
+:white_check_mark: 1. Implement the polynomial kernel. [Link do commita 1](https://github.com/PawelJasinski25/machine-learning/commit/bed5b0e691f4239e64904ce7a5163b8d88b5e484)
+
+:white_check_mark: 2. Implement the multiclass C-SVM. [Link do commita2 ](https://github.com/PawelJasinski25/machine-learning/commit/e5e615a4204fee00af701eda7d8f11d254fe563d)
+
+
+[Notatnik](https://github.com/PawelJasinski25/machine-learning/blob/main/075Ensemble_Exercises.ipynb)
