@@ -55,3 +55,18 @@
 
 
 [Notatnik](https://github.com/PawelJasinski25/machine-learning/blob/main/065_SVM_Exercises.ipynb)
+
+**Zadanie 6** 106_NLP_Exercises
+
+:white_check_mark: 1.  Build your own tokenizer, where you need to implement two functions to implement a tokenizer based on regular expression [Link do commita 1](https://github.com/PawelJasinski25/machine-learning/commit/0faae65962dcb943ed84136875b2e9420e7914c2)
+
+:white_check_mark: 2. Get tags from Trump speech. [Link do commita2 ](https://github.com/PawelJasinski25/machine-learning/commit/d3274dd24979a16504d0dc300346b096f2abe1ce)
+
+:white_check_mark: 3. Get the nouns in the last 10 sentences from Trump's speech and find the nouns divided by sentencens. Use SpaCy [Link do commita3 ](https://github.com/PawelJasinski25/machine-learning/commit/4ea5086d97f758cd6d6d01767568f04d8f727eb3)
+
+:white_check_mark: 4. Build your own Bag Of Words implementation using tokenizer created before. [Link do commita4 ](https://github.com/PawelJasinski25/machine-learning/commit/ebb5247faf06c771f86a4b7e5d5d33474cf3184f)
+
+:white_check_mark: 5. Build a 5-gram model and clean up the results. [Link do commita5 ](https://github.com/PawelJasinski25/machine-learning/commit/a22fd3e426f580cb84341c8056f2797e37d72c0f)
+
+
+[Notatnik](https://github.com/PawelJasinski25/machine-learning/blob/main/106_NLP_Exercises.ipynb)
